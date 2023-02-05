@@ -1,10 +1,9 @@
 {
-  "name": "auth-nest",
+  "name": "auth-api",
   "version": "0.0.1",
   "description": "",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
   "scripts": {
     "format": "rome format --write src/",
     "lint": "rome check src/ --apply",
